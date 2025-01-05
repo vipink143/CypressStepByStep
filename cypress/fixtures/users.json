@@ -1,0 +1,69 @@
+[
+    {
+      "id": 1,
+      "name": "John Doe",
+      "email": "john.doe@example.com",
+      "address": "123 Maple Street, Springfield, IL",
+      "address1":
+      {
+        "location":"104,sonaveer sadan sultanpur",
+        "city":"Delhi",
+        "pincode":"110030"
+      }
+    }
+    ,
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "email": "jane.smith@example.com",
+      "address": "456 Oak Avenue, Chicago, IL"
+    },
+    {
+      "id": 3,
+      "name": "Michael Brown",
+      "email": "michael.brown@example.com",
+      "address": "789 Pine Lane, Boston, MA"
+    },
+    {
+      "id": 4,
+      "name": "Emily Davis",
+      "email": "emily.davis@example.com",
+      "address": "321 Birch Boulevard, Seattle, WA"
+    },
+    {
+      "id": 5,
+      "name": "David Wilson",
+      "email": "david.wilson@example.com",
+      "address": "654 Cedar Court, Austin, TX"
+    },
+    {
+      "id": 6,
+      "name": "Sophia Martinez",
+      "email": "sophia.martinez@example.com",
+      "address": "987 Elm Street, Denver, CO"
+    },
+    {
+      "id": 7,
+      "name": "Chris Johnson",
+      "email": "chris.johnson@example.com",
+      "address": "432 Walnut Drive, Orlando, FL"
+    },
+    {
+      "id": 8,
+      "name": "Olivia Garcia",
+      "email": "olivia.garcia@example.com",
+      "address": "876 Spruce Way, San Francisco, CA"
+    },
+    {
+      "id": 9,
+      "name": "Ethan Hernandez",
+      "email": "ethan.hernandez@example.com",
+      "address": "543 Aspen Road, Miami, FL"
+    },
+    {
+      "id": 10,
+      "name": "Isabella Lopez",
+      "email": "isabella.lopez@example.com",
+      "address": "210 Cypress Avenue, New York, NY"
+    }
+  ]
