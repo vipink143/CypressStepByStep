@@ -65,5 +65,12 @@
       "name": "Isabella Lopez",
       "email": "isabella.lopez@example.com",
       "address": "210 Cypress Avenue, New York, NY"
+    },
+
+    {
+        "username": "Admin",
+        "password":"admin123"
     }
   ]
+
+  
